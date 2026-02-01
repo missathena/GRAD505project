@@ -5,3 +5,5 @@ import seaborn as sns
 
 pokedex = pd.DataFrame(pd.read_csv("pokemon_combined.csv"))
 typeDamage = pd.DataFrame(pd.read_csv("typeDamage.csv"))
+print(pokedex.columns)
+print(typeDamage.columns)
