@@ -37,7 +37,7 @@ print(statTotals)
 
 atkVSdefAvg = pokedex[['Type', 'Attack', 'Defense']]
 a = sns.barplot(data=atkVSdefAvg,x='Attack',y=atkVSdefAvg['Attack'].values,hue='Type',palette="pastel")
-sns.move_legend(ad,"lower right",ncol=5,bbox_to_anchor=(1, 1))
+sns.move_legend(a,"lower right",ncol=5,bbox_to_anchor=(1, 1))
 plt.savefig(fname='attack',bbox_inches='tight')
 
 ad = sns.scatterplot(data=atkVSdefAvg,x='Attack', y="Defense", hue='Type', palette="bright",marker='s')

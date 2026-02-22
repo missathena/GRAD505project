@@ -1,5 +1,5 @@
 Type,Gets Double Damage,Gives Double Damage,Gets Half Damage,Gives half damage,Gives No Damage,Gets No Damage
-ground,water,"poison,rock,steel,fire,electric","posion,rock","grass,bug",flying,electric
+ground,water,"poison,rock,steel,fire,electric","poison,rock","grass,bug",flying,electric
 bug,"flying,rock,fire","grass,psychic,dark","fighting,ground,grass","fighting,flying,poison,ghost,steel,fire,fairy",,
 dark,"fighting,bug,fairy","ghost,psychic","ghost,dark","fighting,dark,fairy",,psychic
 dragon,"ice,dragon,fairy",dragon,"fire,water,grass,electric",steel,fairy,

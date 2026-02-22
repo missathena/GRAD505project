@@ -1,0 +1,16 @@
+Type,Gets Double Damage,Gives Double Damage,Gets Half Damage,Gives half damage,Gives No Damage,Gets No Damage
+ground,1,5,2,2,1,1
+bug,3,3,3,7,0,0
+dark,3,2,2,3,0,1
+dragon,3,1,4,1,1,0
+electric,1,2,3,3,1,0
+fairy,2,3,3,3,0,1
+fighting,3,5,3,5,1,0
+fire,3,4,6,4,0,0
+flying,3,3,3,3,0,1
+ghost,2,2,2,1,1,2
+grass,5,3,4,7,0,0
+ice,4,4,1,4,0,0
+normal,1,0,0,2,1,1
+poison,2,2,5,4,1,0
+psychic,3,1,1,2,2,1
