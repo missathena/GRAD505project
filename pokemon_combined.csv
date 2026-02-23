@@ -1,4 +1,4 @@
-Name,Type,Species,Height,Weight,Abilities,Base Exp.,Growth Rate,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Total
+Name,Type,Species,Height,Weight (KG),Abilities,Base Exp.,Growth Rate,HP,Attack,Defense,Sp. Atk,Sp. Def,Speed,Total
 Bulbasaur,Grass Poison,Seed Pokémon,0.7,6.9,1. OvergrowChlorophyll (hidden ability),64,Medium Slow,45,49,49,65,65,45,273
 Ivysaur,Grass Poison,Seed Pokémon,1,13,1. OvergrowChlorophyll (hidden ability),142,Medium Slow,60,62,63,80,80,60,345
 Venusaur,Grass Poison,Seed Pokémon,2.4,155.5,Thick Fat,281,Medium Slow,80,100,123,122,120,80,545

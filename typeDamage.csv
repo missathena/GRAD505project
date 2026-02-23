@@ -14,3 +14,5 @@ ice,"fighting,rock,steel,fire","flying,ground,grass,dragon",ice,"steel,fire,wate
 normal,fighting,,,"rock,steel",ghost,ghost
 poison,"ground,psychic","grass,fairy","fighting,poison,bug,grass,fairy","poison,ground,rock,ghost",steel,
 psychic,"bug,ghost,dark",fighting,poison,"fighting,psychic","steel,psychic",dark
+water,"grass,electric","ground,rock,fire","steel,fire,water,ice","water,grass,dragon",,
+steel,"fighting,ground,fire","rock,ice,fairy","normal,flying,rock,bug,steel,grass,psychic,ice,dragon,fairy","steel,fire,water,electric",poison,
