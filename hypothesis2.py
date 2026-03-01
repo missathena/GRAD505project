@@ -1,10 +1,8 @@
 #Packages Needed
 import pandas as pd
 from pandas import DataFrame
-import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import statsmodels.api as sm
 from statsmodels.formula.api import ols
 
 #Data loading
@@ -12,8 +10,8 @@ pokedex = DataFrame(pd.read_csv('pokemon_combined.csv'))
 pokedex = pokedex[pokedex.groupby('Type')['Type'].transform('count') >= 5]
 pokedex = DataFrame.drop(pokedex,columns=["Abilities","Growth Rate"])
 typeDamageNumbers = DataFrame(pd.read_csv('typeDamageNumbers.csv'))
-#print(typeDamageNumbers.head())
-#print(pokedex.head())
+print(typeDamageNumbers.head())
+print(pokedex.head())
 
 #Hypothesis 2 Linear Regression
 kg_atk_def = DataFrame(pd.read_csv('weight_attack_defense.csv'))

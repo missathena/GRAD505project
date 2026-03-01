@@ -1,10 +1,8 @@
 #Packages Needed
 import pandas as pd
 from pandas import DataFrame
-import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-import statsmodels.api as sm
 from statsmodels.formula.api import ols
 from statsmodels.stats.anova import anova_lm
 
